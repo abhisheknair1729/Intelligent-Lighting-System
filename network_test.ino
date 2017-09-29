@@ -11,7 +11,7 @@
 
 //WORKING
 
-RF24 radio(8,7);
+RF24 radio(7,8);
 RF24Network network(radio);
 
 //addresses of all nodes in the network are octal numbers hence the 0 in the beginning
