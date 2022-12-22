@@ -1,6 +1,7 @@
 # Intelligent Lighting System
 
-This repository contains the source code developed for the project Intelligent Lighting System. <br>
-It contains a mixture of Arduino code and Javascript code which was used in the testing and development phase of the project. <br>
-For further documentation, please refer to the source code directly. <br>
+The code in this repository enables client-server interaction between an arduino device and a simple server running on a laptop. <br>
+The Arduino code and the Server code have been separated out into two folders. <br>
+Kindly refer to the source code directly for more information. <br>
+
 
